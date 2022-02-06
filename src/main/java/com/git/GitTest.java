@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("Hello, git!44444444444hotfix");
         System.out.println("Hello, master!");
         System.out.println("Hello, hotfix!");
+        System.out.println("Hello, pushRemote!");
     }
 }
